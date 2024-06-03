@@ -5,9 +5,16 @@ This repo contains links to all microservices that make this project
 ## Person data service
 ### https://github.com/JosepeDevs/PcRepairPersonData
 
-
 ## Authentication service
 ### https://github.com/JosepeDevs/PcRepairAuthService
+
+## API-Gateway service
+### https://github.com/JosepeDevs/PcRepairAPIGateway
+
+## Eureka Server service
+### https://github.com/JosepeDevs/PcRepairEurekaServerService
+
+
 
 ### TODAVÍA EN DESARROLLO
 Este proyecto implementa microservicios utilizando una arquitectura hexagonal, API gateway, Eureka y CQRS. Fue planificado y desarrollado por JosepeDevs 
