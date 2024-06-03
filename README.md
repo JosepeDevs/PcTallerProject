@@ -19,6 +19,7 @@ This repo contains links to all microservices that make this project
 ### TODAVÍA EN DESARROLLO
 Este proyecto implementa microservicios utilizando una arquitectura hexagonal, API gateway, Eureka y CQRS. Fue planificado y desarrollado por JosepeDevs 
 
+
 ## Tecnologías Utilizadas
 
 - **Java**
